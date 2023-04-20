@@ -1,6 +1,7 @@
 # Satyam_Aara--assignment
 Django Rest Framework Project
-Introduction
+Introduction:
+
 This is a Django Rest Framework project that uses Simple JWT for authentication and Django's built-in User model for user management.
 
 
