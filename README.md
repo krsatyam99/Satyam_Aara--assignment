@@ -61,4 +61,4 @@ Video Link
 A video demonstration of the project is available at the following link:
 
 Video Link:
-https://drive.google.com/file/d/1-qaTl_XH255dTKNvaID8dGnxLnd2n3wj/view
+https://youtu.be/9ekIRz5xbUQ
