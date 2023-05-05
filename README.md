@@ -54,7 +54,7 @@ Postman Collection
 A Postman collection is available for testing the API endpoints. You can import the collection by clicking the following link:
 
 Postman Collection Link
-https://api.postman.com/collections/24162967-cfd44ad3-9d4d-40be-83eb-fd4bc6178d99?access_key=PMAT-01GYFJGKKJH3DZA3S0Z3R65D4T
+https://api.postman.com/collections/24162967-cfd44ad3-9d4d-40be-83eb-fd4bc6178d99?access_key=####
 
 
 Video Link
