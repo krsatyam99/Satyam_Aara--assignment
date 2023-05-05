@@ -1,4 +1,4 @@
-# Satyam_Aara--assignment
+# Shop Apis
 Django Rest Framework Project
 Introduction:
 
